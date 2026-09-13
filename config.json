@@ -1,0 +1,9 @@
+{
+    "Imagenes": [".jpg", ".jpeg", ".png", ".gif", ".webp", ".bmp", ".svg"],
+    "Documentos": [".pdf", ".docx", ".txt", ".xlsx", ".pptx", ".odt", ".csv"],
+    "Videos": [".mp4", ".mkv", ".avi", ".mov", ".wmv"],
+    "Musica": [".mp3", ".wav", ".flac", ".aac"],
+    "Comprimidos": [".zip", ".rar", ".7z", ".tar", ".gz"],
+    "Ejecutables": [".apk", ".exe", ".msi", ".deb", ".AppImage"],
+    "Libros": [".epub", ".mobi"]
+}
